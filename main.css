@@ -1,0 +1,48 @@
+.col-sm-4 {
+    background-color: grey;
+    color: white;
+    padding-bottom: 0px;
+    margin: 1px;
+
+  }
+
+  .col-md-4 {
+    background-color: grey;
+    color: white;
+    padding-bottom: 4px;
+    margin: 1px;
+
+  }
+  .col-sm-4 {
+    background-color: #e4e2dc !important;
+  }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #c2c2c2;
+    shape-rendering: crispEdges;
+  }
+
+  .axis text {
+    font-size: 10px;
+    font-weight: bold;
+  }
+
+  .view {
+    fill: red;
+    font-size: 10px;
+    font-style: normal;
+  }
+
+  .legendlabel {
+    font-size: 14px;
+    fill: black;
+    font-style: bold;
+  }
+
+  .toplabel {
+    font-size: 17;
+    fill: black;
+    font-style: bold;
+  }
